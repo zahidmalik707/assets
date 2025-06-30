@@ -1,0 +1,11 @@
+{
+  "name": "TrustLedger",
+  "symbol": "TLD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xCe9Bc25e627c366a154BF9F576aee452041aAc73",
+  "website": "https://trustledger.io",
+  "description": "TrustLedger (TLD) is a BEP20 token focused on decentralized mining, secure token utility, and DeFi innovation.",
+  "explorer": "https://bscscan.com/token/0xCe9Bc25e627c366a154BF9F576aee452041aAc73"
+}
